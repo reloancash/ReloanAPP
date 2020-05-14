@@ -1,4 +1,4 @@
-# Reloan 貸款App 借貸 HK財務
+# Reloan 貸款App 使用方法
 
 ![1](/images/1.png)
 
